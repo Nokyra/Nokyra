@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">🌈 Nokyra ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B9FE8&center=true&vCenter=true&width=500&lines=Welcome+to+My+Little+Universe;Just+an+ordinary+dreamer;Somewhere+between+code+and+dreams" alt="Typing SVG" />
+</p>
 
-<!--
-**Nokyra/Nokyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">💫 About Me</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Name-Nokyra-8B9FE8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Student-9BAED9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Exploration-C5B8E8?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+- 🌌 A dreamer with a curious mind.
+- 💻 Exploring the endless possibilities of code.
+- 🌱 Growing through every experience.
+- ☁️ Finding my own path in this ever-changing world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">🌷 A Little Note</h2>
+<p align="center">
+  世界很大，天空很蓝。<br/>
+  There are still so many places I haven't seen.
+</p>
+<p align="center">
+  <i>“愿每一次出发，都能遇见新的风景。”</i>
+</p>
+<p align="center">
+  <sub>Thanks for visiting my little world.</sub>
+  <br/>
+  <sub>© Nokyra · Keep wandering. ☁️</sub>
+</p>
